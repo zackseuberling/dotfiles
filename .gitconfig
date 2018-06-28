@@ -1,0 +1,11 @@
+[user]
+	name = Zack Seuberling
+	email = seuberling@gmail.com
+[alias]
+	co = checkout
+[core]
+  editor = nano
+[push]
+	default = current
+[pager]
+	branch = false
