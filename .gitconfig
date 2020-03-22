@@ -1,11 +1,13 @@
-[user]
-	name = Zack Seuberling
-	email = seuberling@gmail.com
-[alias]
-	co = checkout
 [core]
   editor = nano
+[user]
+  name = Zack Seuberling
+  email = seuberling@gmail.com
+[alias]
+  co = checkout
+  prom = rebase origin/master
+  pullr = pull --rebase --prune
 [push]
-	default = current
+  default = current
 [pager]
-	branch = false
+  branch = false
