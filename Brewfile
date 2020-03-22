@@ -1,0 +1,33 @@
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+tap "homebrew/core"
+tap "homebrew/services"
+tap "homebrew/cask-versions"
+tap "heroku/brew"
+
+# dev tools
+brew "git"
+brew "zsh"
+brew "zsh-completions"
+brew "wget"
+brew "exa"
+
+brew "ruby"
+brew "go"
+brew "sqlite"
+brew "postgresql"
+brew "heroku"
+brew "node"
+brew "yarn"
+brew "wrk"
+
+# applications
+cask "1password"
+cask "alfred"
+cask "google-chrome"
+cask "firefox"
+cask "visual-studio-code"
+cask "iterm2"
+cask "font-fira-code"
+cask "appcleaner"
+cask "dropbox"
