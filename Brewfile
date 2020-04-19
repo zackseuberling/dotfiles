@@ -14,6 +14,7 @@ brew "exa"
 brew "asdf"
 brew "coreutils"
 brew "gpg"
+brew "imagemagick"
 
 brew "ruby"
 brew "go"
